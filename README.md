@@ -1,2 +1,2 @@
-# pythoncodes
-Python Gui code
+# Java Script
+Java Script Day 1
